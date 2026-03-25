@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Run a simple command
-        run: echo This is my pipeline run trial 2
+        run: echo This is my pipeline run trial 3
